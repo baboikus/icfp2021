@@ -1,0 +1,31 @@
+{"vertices":[[14,50],[20,58],[59,98],[22,26],[33,43],[50,67],[67,91],[20,15],[32,32],[30,21],[61,66],[28,10],[40,26],[38,15],[50,31],[67,56],[84,81],[92,75],[63,16],[69,24]]}
+isRigidityRetained =  i = 0 from = 2 to = 5  d1 = 1042 d2 = 1000 t = 0.042 epsilon = 0.15
+ i = 1 from = 5 to = 4  d1 = 865 d2 = 900 t = 0.0388889 epsilon = 0.15
+ i = 2 from = 4 to = 1  d1 = 394 d2 = 425 t = 0.0729412 epsilon = 0.15
+ i = 3 from = 1 to = 0  d1 = 100 d2 = 100 t = 0 epsilon = 0.15
+ i = 4 from = 0 to = 8  d1 = 648 d2 = 650 t = 0.00307692 epsilon = 0.15
+ i = 5 from = 8 to = 3  d1 = 136 d2 = 125 t = 0.088 epsilon = 0.15
+ i = 6 from = 3 to = 7  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 7 from = 7 to = 11  d1 = 89 d2 = 100 t = 0.11 epsilon = 0.15
+ i = 8 from = 11 to = 13  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 9 from = 13 to = 12  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 10 from = 12 to = 18  d1 = 629 d2 = 650 t = 0.0323077 epsilon = 0.15
+ i = 11 from = 18 to = 19  d1 = 100 d2 = 100 t = 0 epsilon = 0.15
+ i = 12 from = 19 to = 14  d1 = 410 d2 = 425 t = 0.0352941 epsilon = 0.15
+ i = 13 from = 14 to = 15  d1 = 914 d2 = 900 t = 0.0155556 epsilon = 0.15
+ i = 14 from = 15 to = 17  d1 = 986 d2 = 1000 t = 0.014 epsilon = 0.15
+ i = 15 from = 17 to = 16  d1 = 100 d2 = 100 t = 0 epsilon = 0.15
+ i = 16 from = 16 to = 10  d1 = 754 d2 = 725 t = 0.04 epsilon = 0.15
+ i = 17 from = 10 to = 6  d1 = 661 d2 = 725 t = 0.0882759 epsilon = 0.15
+ i = 18 from = 6 to = 2  d1 = 113 d2 = 100 t = 0.13 epsilon = 0.15
+ i = 19 from = 8 to = 12  d1 = 100 d2 = 100 t = 0 epsilon = 0.15
+ i = 20 from = 7 to = 9  d1 = 136 d2 = 125 t = 0.088 epsilon = 0.15
+ i = 21 from = 9 to = 3  d1 = 89 d2 = 100 t = 0.11 epsilon = 0.15
+ i = 22 from = 8 to = 9  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 23 from = 9 to = 12  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 24 from = 13 to = 9  d1 = 100 d2 = 100 t = 0 epsilon = 0.15
+ i = 25 from = 9 to = 11  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 26 from = 4 to = 8  d1 = 122 d2 = 125 t = 0.024 epsilon = 0.15
+ i = 27 from = 12 to = 14  d1 = 125 d2 = 125 t = 0 epsilon = 0.15
+ i = 28 from = 5 to = 10  d1 = 122 d2 = 125 t = 0.024 epsilon = 0.15
+ i = 29 from = 10 to = 15  d1 = 136 d2 = 125 t = 0.088 epsilon = 0.15
